@@ -1,0 +1,60 @@
+﻿    body {
+    border: 160px solid #f1f1f1;
+    background-color: #6297E8 ;
+}
+body {
+                        font-family: Arial, sans-serif;
+                    margin-left: 200px;
+    margin-right: 200px;
+}
+                      margin: 70px 200px 300px 100px;}
+                          padding: 0;
+                        box-sizing: border-box;
+                        background-color: #f0f0f0;
+                        color: #6297E8 
+                    }
+h2 {
+                        font-size: 0.50em;
+                        margin-bottom: 10px;
+                        color: #555;
+                        text-align: left;
+                    }
+            
+                    p {
+                        font-size: 1em;
+                        color: #555;
+                        text-align: left;
+p {
+    margin: 2px 2px 3px 100px;}
+.contenedor {
+    overflow: hidden;
+    display: flex;
+    margin: 20px; /* Añade un margen alrededor del contenedor */
+
+.barra-lateral {
+    width: 250%;
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 100px 100px 100px 80px;}
+}
+
+
+/* Añade margen izquierdo y derecho al contenido principal */
+.contenido-principal {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+/* Resto del código... */
+.container {
+    max-width: 800px;
+    margin: 10px auto; /* Center the container with a margin of 10px */
+    text-align: center;
+    padding: 20px;
+    background-image: url('5.jpg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+/* Otros estilos... */
